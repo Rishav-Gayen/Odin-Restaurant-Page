@@ -7,9 +7,9 @@ function createMenu() {
     menu.appendChild(createMenuItem('Sushi Rolls', 'Sushi rice, nori sheets, cucumber, avocado, crab, soy sauce, wasabi, and pickled ginger.'))
     menu.appendChild(createMenuItem('Cheeseburger', 'Ground beef, burger buns, cheese slices, lettuce, tomatoes, onions, pickles, ketchup, mustard, and mayonnaise.'))
     menu.appendChild(createMenuItem('Vegetable Stir fry', 'Mixed vegetables (bell peppers, broccoli, carrots, snap peas), tofu or chicken, soy sauce, garlic, ginger, sesame oil, and cornstarch.'))
-    menu.appendChild(createMenuItem('Margherita Pizza', ' Pizza dough, tomato sauce, mozzarella cheese, fresh basil, olive oil, salt, and pepper.'))
+    menu.appendChild(createMenuItem('margherita pizza', ' Pizza dough, tomato sauce, mozzarella cheese, fresh basil, olive oil, salt, and pepper.'))
     menu.appendChild(createMenuItem('Caesar Salad', 'Romaine lettuce, croutons, Parmesan cheese, Caesar dressing (mayonnaise, anchovies, garlic, Dijon mustard, lemon juice, Worcestershire sauce).'))
-    menu.appendChild(createMenuItem('Beef Stroganoff', 'Beef strips, onions, mushrooms, beef broth, sour cream, egg noodles, butter, flour, and salt.'))
+    menu.appendChild(createMenuItem('beef stroganoff', 'Beef strips, onions, mushrooms, beef broth, sour cream, egg noodles, butter, flour, and salt.'))
     return menu;
 
 }
