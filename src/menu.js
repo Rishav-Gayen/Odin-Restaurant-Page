@@ -12,7 +12,7 @@ function createMenu() {
 
 }
 
-function createMenuItem(dish, ingredients) {
+function createMenuItem(dish, ingredients, itemNumber) {
     const menuItem = document.createElement('div');
     menuItem.classList.add('menu-item')
 
